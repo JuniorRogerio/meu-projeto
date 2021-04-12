@@ -1,0 +1,168 @@
+{
+  "pets": [
+    {
+      "nome": "Joe",
+      "idade": 2,
+      "raca": "pug",
+      "tipo": "cachorro",
+      "vacinado": true,
+      "genero": "M",
+      "servicos": [
+        {
+          "nome": "banho",
+          "data": "05-04-2021"
+        },
+        {
+          "nome": "banho",
+          "data": "05-04-2021"
+        },
+        {
+          "nome": "banho",
+          "data": "05-04-2021"
+        },
+        {
+          "nome": "banho",
+          "data": "05-04-2021"
+        }
+      ],
+      "castrado": true
+    },
+    {
+      "nome": "Bravo",
+      "idade": 6,
+      "raca": "fila",
+      "tipo": "cachorro",
+      "vacinado": true,
+      "genero": "M",
+      "servicos": [
+        {
+          "nome": "banho",
+          "data": "05-04-2021"
+        },
+        {
+          "nome": "banho",
+          "data": "05-04-2021"
+        }
+      ],
+      "castrado": true
+    },
+    {
+      "nome": "Lua",
+      "idade": 3,
+      "raca": "Poodle",
+      "tipo": "cachorro",
+      "vacinado": true,
+      "genero": "F",
+      "servicos": [
+        {
+          "nome": "banho",
+          "data": "05-04-2021"
+        },
+        {
+          "nome": "banho",
+          "data": "05-04-2021"
+        },
+        {
+          "nome": "banho",
+          "data": "05-04-2021"
+        }
+      ],
+      "castrado": true
+    },
+    {
+      "nome": "Tom",
+      "tipo": "gato",
+      "raca": "poodle",
+      "idade": 5,
+      "genero": "M",
+      "vacinado": true,
+      "servicos": [
+        {
+          "nome": "tosa",
+          "data": "05-04-2021"
+        }
+      ],
+      "castrado": true
+    },
+    {
+      "nome": "Ada",
+      "tipo": "iguana",
+      "raca": "albina",
+      "idade": 5,
+      "genero": "F",
+      "vacinado": true,
+      "servicos": [
+        {
+          "nome": "banho",
+          "data": "05-04-2021"
+        },
+        {
+          "nome": "tosa",
+          "data": "05-04-2021"
+        }
+      ],
+      "castrado": true
+    },
+    {
+      "nome": "Rex",
+      "idade": 4,
+      "raca": "caramelo",
+      "tipo": "cachorro",
+      "vacinado": true,
+      "genero": "M",
+      "servicos": [
+        {
+          "nome": "tosa",
+          "data": "05-04-2021"
+        },
+        {
+          "nome": "tosa",
+          "data": "05-04-2021"
+        }
+      ],
+      "castrado": true
+    },
+    {
+      "nome": "Rex",
+      "idade": 4,
+      "raca": "caramelo",
+      "tipo": "cachorro",
+      "vacinado": true,
+      "genero": "M",
+      "servicos": [
+        {
+          "nome": "tosa",
+          "data": "05-04-2021"
+        },
+        {
+          "nome": "tosa",
+          "data": "05-04-2021"
+        },
+        {
+          "nome": "tosa",
+          "data": "05-04-2021"
+        }
+      ],
+      "castrado": true
+    },
+    {
+      "nome": "Costelinha",
+      "idade": 12,
+      "raca": "café",
+      "tipo": "cachorro",
+      "vacinado": false,
+      "genero": "M",
+      "servicos": [
+        {
+          "nome": "banho",
+          "data": "05-04-2021"
+        },
+        {
+          "nome": "tosa",
+          "data": "05-04-2021"
+        }
+      ],
+      "castrado": true
+    }
+  ]
+}
